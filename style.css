@@ -1,0 +1,41 @@
+.container{
+    border: 1px red solid;
+    height: 100vh;
+}
+#item1{
+    border: 1px black solid;
+    height: 20%;
+    display: flex;
+}
+#elemento1{
+    border: 1px blue solid;
+    width: 25%;
+}
+#elemento2{
+    border: 1px blue solid;
+    width: 25%;
+}
+#elemento3{
+    border: 1px blue solid;
+    width: 25%;
+}
+#elemento4{
+    border: 1px blue solid;
+    width: 25%;
+}
+#item2{
+    border: 1px black solid;
+    height: 20%;
+}
+#item3{
+    border: 1px black solid;
+    height: 20%;
+}
+#item4{
+    border: 1px black solid;
+    height: 20%;
+}
+#item5{
+    border: 1px black solid;
+    height: 20%;
+}
